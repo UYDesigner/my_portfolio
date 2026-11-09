@@ -19,8 +19,9 @@ export const profile = {
   // **double asterisks** render as bold, underlined phrases.
   background: [
     "I'm a **Full-Stack Developer** exploring **AI/ML engineering**.",
-    '[Add what you build and the tools you use.]',
-    '[Add what you are focused on or learning right now.]',
+    'Learning DSA, Backend Development & System Design.',
+    'I design and develop modern interfaces with React, Tailwind, Motion focusing on usability, performance, and delightful interactions.',
+    'Currently a 1st-year MCA Student, I enjoy transforming ideas into polished products, exploring new technologies, refining details, and creating intuitive and memorable experiences.',
   ],
   closing: "If you've read this far, you might be interested in what I do.",
   quote: { text: '“As long as I’m alive, there are infinite chances!”', author: 'Monkey D. Luffy' },
