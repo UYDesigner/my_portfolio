@@ -18,6 +18,4 @@ npm run dev
 ## Status
 Currently under development.
 
----
 
-Built with ❤️ and curiosity.
